@@ -184,7 +184,7 @@ header {
 }
 
 .author-card p {
-  font-size: 17px;
+  font-size: 15px;
   color: #0b0b0b;
 }
 
@@ -253,4 +253,5 @@ footer button:hover {
   .hero-text p { font-size: 1rem; margin-top: 15px; }
   .logo { width: 50px; height: 25px; }
 }
+
 

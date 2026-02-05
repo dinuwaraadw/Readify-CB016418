@@ -47,9 +47,9 @@ function initQuotes() {
 // author of the day Section
 
 const authors = [
-  { name: "Ayn Rand", bio: "Author of philosophical novels.", image: "images/ayn_rand.jpg" },
+  { name: "Ayn Rand", bio: "Author of philosophical novels.", image: "images/Ayn_rand.jpg" },
   { name: "Ernest Hemingway", bio: "Renowned for his concise writing style.", image: "images/Ernest_Hemingway.jpg" },
-  { name: "Neil Gaiman", bio: "Creator of imaginative fantasy worlds.", image: "images/neil_gaiman.jpg" }
+  { name: "Neil Gaiman", bio: "Creator of imaginative fantasy worlds.", image: "images/Neil_Gaiman.jpg" }
 ];
 
 function initAuthor() {
@@ -98,3 +98,4 @@ document.addEventListener('DOMContentLoaded', () => {
   initAuthor();
   initNewsletter();
 });
+
